@@ -31,9 +31,9 @@ Este projeto foi criado como entrega acadêmica.
 ### Tela Home
 
 <p float="left">
-  <img src="./assets/telas/HOME.png" width="260" />
-  <img src="./assets/telas/HOME2.png" width="260" />
-  <img src="./assets/telas/HOME3.png" width="260" />
+  <img src="./assets/telas/HOME.jpg" width="260" />
+  <img src="./assets/telas/HOME 2.jpg" width="260" />
+  <img src="./assets/telas/HOME 3.jpg" width="260" />
 </p>
 
 
@@ -52,6 +52,7 @@ npm install
 
 # 2 — Inicie o projeto
 npx expo start
+
 
 
 
