@@ -1,7 +1,7 @@
 # Projeto App Trans
 
 Aplicativo desenvolvido em **React Native com Expo** para auxiliar pessoas trans com informações, suporte e acesso rápido a recursos importantes.  
-Este projeto foi criado como entrega acadêmica, demonstrando conhecimentos em desenvolvimento mobile, navegação, componentes e estilização.
+Este projeto foi criado como entrega acadêmica.
 
 ---
 
@@ -41,3 +41,4 @@ npm install
 
 # 2 — Inicie o projeto
 npx expo start
+
