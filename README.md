@@ -29,9 +29,9 @@ Este projeto foi criado como entrega acadêmica.
 ## 📱 Telas do Aplicativo
 
 ### Tela Home
-![Tela Home](./assets/telas/Home.png)
-![Tela Home](./assets/telas/Home(2).png)
-![Tela Home](./assets/telas/Home(3).png)
+![Tela Home](./assets/telas/HOME.png)
+![Tela Home](./assets/telas/HOME2.png)
+![Tela Home](./assets/telas/HOME3.png)
 
 
 ## ▶️ Como rodar o projeto
@@ -49,5 +49,6 @@ npm install
 
 # 2 — Inicie o projeto
 npx expo start
+
 
 
