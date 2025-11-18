@@ -26,6 +26,14 @@ Este projeto foi criado como entrega acadêmica.
 
 ---
 
+## 📱 Telas do Aplicativo
+
+### Tela Home
+![Tela Home](./assets/telas/Home.png)
+![Tela Home](./assets/telas/Home(2).png)
+![Tela Home](./assets/telas/Home(3).png)
+
+
 ## ▶️ Como rodar o projeto
 
 ### Pré-requisitos
@@ -41,4 +49,5 @@ npm install
 
 # 2 — Inicie o projeto
 npx expo start
+
 
